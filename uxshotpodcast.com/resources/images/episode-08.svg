@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="260px" height="216px" viewBox="0 0 260 216" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>episode-08</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="86.4801146" width="123" height="42.2048986"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="123" height="42.2048986" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="episode-08">
+            <g id="Group-2" transform="translate(17.000000, 16.000000)">
+                <text id="08" font-family="DINCondensed-Bold, DIN Condensed" font-size="261.025352" font-weight="bold" letter-spacing="-0.339643514" fill="#F8E71C">
+                    <tspan x="35.5944764" y="186.234076">08</tspan>
+                </text>
+                <use id="Rectangle-2-Copy-2" stroke="#979797" mask="url(#mask-2)" stroke-width="2.35534595" xlink:href="#path-1"></use>
+                <ellipse id="Oval-Copy-5" stroke="#979797" stroke-width="1.17767298" cx="7.10677439" cy="26.890385" rx="4.71349708" ry="4.68943318"></ellipse>
+            </g>
+            <text id="EDUCACIÓN-UX" font-family="Quicksand-Bold, Quicksand" font-size="28" font-weight="bold" line-spacing="40" letter-spacing="-0.0364333391" fill="#4A4A4A">
+                <tspan x="28" y="88">EDUCACIÓN</tspan>
+                <tspan x="28" y="128">UX</tspan>
+            </text>
+            <path d="M236.85588,187.890446 C229.27359,187.890446 229.27359,180 221.690201,180 C214.104613,180 214.104613,187.890446 206.519025,187.890446 C198.936735,187.890446 198.936735,180 191.352246,180 C183.764459,180 183.764459,187.890446 176.176673,187.890446 C168.587787,187.890446 168.587787,180 161,180" id="Page-1-Copy" stroke="#5D3799" stroke-width="1.11486375" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

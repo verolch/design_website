@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="234px" height="200px" viewBox="0 0 234 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="102" width="233" height="41"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="233" height="41" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.270988806">
+        <g id="Desktop-HD-Copy-4" transform="translate(-962.000000, -958.000000)">
+            <g id="Group-3" transform="translate(963.000000, 959.000000)">
+                <text id="03" font-family="DINCondensed-Bold, DIN Condensed" font-size="240" font-weight="bold" letter-spacing="-0.312285542" fill="#BDBDBD">
+                    <tspan x="31.5322855" y="197">03</tspan>
+                </text>
+                <path d="M229.739496,180.544277 C222.057123,180.544277 222.057123,172.534509 214.373637,172.534509 C206.687922,172.534509 206.687922,180.544277 199.002208,180.544277 C191.319835,180.544277 191.319835,172.534509 183.635235,172.534509 C175.947293,172.534509 175.947293,180.544277 168.259351,180.544277 C160.570295,180.544277 160.570295,172.534509 152.882353,172.534509" id="Page-1-Copy-2" stroke="#4A4A4A" stroke-width="1.125" stroke-linecap="round"></path>
+                <text id="WEEKLY-SHOT" font-family="Quicksand-Bold, Quicksand" font-size="25" font-weight="bold" line-spacing="38.25" letter-spacing="-0.0325297713" fill="#4A4A4A">
+                    <tspan x="8.30252101" y="124.160883">WEEKLY SHOT</tspan>
+                </text>
+                <use id="Rectangle-2-Copy-4" stroke="#979797" mask="url(#mask-2)" stroke-width="2.25" xlink:href="#path-1"></use>
+                <circle id="Oval-Copy-4" stroke="#979797" stroke-width="1.125" cx="4.5" cy="22.5" r="4.5"></circle>
+                <circle id="Oval-Copy-4" stroke="#979797" stroke-width="1.125" cx="4.5" cy="4.5" r="4.5"></circle>
+                <ellipse id="Oval-Copy-6" stroke="#979797" stroke-width="1.125" cx="217" cy="122.5" rx="4" ry="4.5"></ellipse>
+                <path d="M218.844106,19 L172.813859,64.8722947" id="Line-Copy-4" stroke="#979797" stroke-width="1.125" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
